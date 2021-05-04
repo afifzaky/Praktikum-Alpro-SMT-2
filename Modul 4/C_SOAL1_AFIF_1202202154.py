@@ -9,11 +9,11 @@ dan Fungsi pengembalian nilai yang dapat menghitung perkalian 3 bilangan bulat.
 
 def pertambahan(a,b,c):
     return a + b + c 
-def perkurangan(x,y,z):
+def perkurangan(a,b,c):
     return a - b - c 
-def perkalian(x,y,z):
+def perkalian(a,b,c):
     return a * b * c 
-def pembagian(x,y,z):
+def pembagian(a,b,c):
     return a / b / c
 
 a = int(input("Masukan Bil 1 : "))
